@@ -1,0 +1,2 @@
+# GTPPainter_SDI
+MFC_SDI
